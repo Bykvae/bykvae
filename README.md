@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edward</h1>
 <h3 align="center">A very lazy programmer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn3.emoji.gg/emojis/6823-snooze.gif">
 
 - 🔭 I’m currently working on **eliminating my laziness**
 
